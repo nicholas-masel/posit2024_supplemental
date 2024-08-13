@@ -1,0 +1,67 @@
+---
+title: "Supplemental Material"
+format: html
+---
+
+# Organizations Thinking of Using Open-Source
+
+## Getting Started
+
+Inspiration: [Shiny Gallery](https://shiny.posit.co/r/gallery/)
+
+Code I Started From: [bs4Dash - Thank you David Granjon!](https://github.com/RinteRface/bs4Dash/blob/master/inst/examples/showcase/app.R)
+
+More Info on My First App: [2020 PHUSE US Connect Paper](https://www.lexjansen.com/phuse-us/2020/dv/DV06.pdf)
+
+
+# Implementing within Your Organization
+
+[TransCelerate/PHUSE MoA](https://www.transceleratebiopharmainc.com/assets/modernization-of-statistical-analytics-solutions/)
+
+## Validation
+
+[R Consortium R Validation Hub](https://www.pharmar.org/)
+
+## Submissions
+
+[R Consortium Submissions Working Group](https://rconsortium.github.io/submissions-wg/)
+
+## Standards
+
+[Pharmaverse](https://pharmaverse.org/)
+
+[Cardinal](https://github.com/pharmaverse/cardinal)
+
+[FDA Safety Standards](https://www.regulations.gov/document/FDA-2022-N-1961-0046)
+
+## Interactivity
+
+[teal](https://insightsengineering.github.io/teal/)
+
+# Been there, done that, have the t-shirt
+## Contribute to R Package
+
+[logrx - The package I initially contributed to when starting out!](https://github.com/pharmaverse/logrx)
+
+## Contribute to Core R
+
+[Contribute](https://contributor.r-project.org/)
+
+[Donate](https://www.r-project.org/foundation/donors.html)
+
+## Join R Consortium
+
+[Join here!](https://www.r-consortium.org/about/join)
+
+## Share Your Story
+
+[Data Science Hangout](https://posit.co/data-science-hangout/)
+
+[Pharmaverse Blog](https://github.com/pharmaverse/blog)
+
+## Organize & Lead
+
+[R Consortium Working Groups](https://www.r-consortium.org/all-projects/isc-working-groups)
+
+[PHUSE New Project Request - Online](https://forms.office.com/Pages/ResponsePage.aspx?id=xeEJLj1cykuXxFc6VpX1UC9gmOzKDu1OvRWjN8IB9-BUQTE2QjJWM1NZUjQ1QzYxTlpIRk81M01RUC4u)
+
